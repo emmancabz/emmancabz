@@ -1,29 +1,24 @@
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- LEFT COLUMN: Space-Saving Cyber Glitch Loop -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlsam94ZnQyZndpZGd1YW80cm1idmt0YTM4amw5Nm96bmsyY296ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3vGqxhK/giphy.gif" width="100%" style="border-radius: 6px;" alt="Cyber System Loop" />
-    </td>
-    <!-- RIGHT COLUMN: Compact Live Terminal Interface -->
-    <td width="60%" valign="top" style="padding-left: 15px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFCC&width=450&height=50&lines=%3E%3E+INITIALIZING+SECURITY+NODE...;%3E%3E+ETHICAL+HACKER+IN+TRAINING...;%3E%3E+FULL-STACK+DEVELOPER" alt="Terminal Header" />
-      <pre>
-<b>$ whoami</b>
-> Emman | BSIT Student & Security Enthusiast
-<b>$ info --focus</b>
-> Pentesting, System Security & Secure Architecture
-<b>$ system --env</b>
-> OS: Linux / Windows Dual Boot [Shell: Bash]
-      </pre>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- 🎬 High-Tech Cyberpunk Loop Animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmk1M3A4d214d2hxcmFlam12dTNqdXN5d3d5Nm15b3J5eHh4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2sVIR1zHg9G0/giphy.gif" width="100%" alt="Cyber Control Center Grid" />
+
+  <br><br>
+
+  <!-- 🟢 Welcome & Live Total Profile Visits Counter -->
+  <img src="https://komarev.com/ghpvc/?username=emmancabz&color=00ffcc&style=for-the-badge&label=SYSTEM+ACCESSES" alt="System Accesses Counter" />
+  
+  <br><br>
+
+  <!-- ⌨️ Neon Terminal Typing Automation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=50&lines=WELCOME+TO+EMMAN'S+SECURE+NODE...;INITIALIZING+CYBER+ARSENAL...;ACCESS+GRANTED+:+STATUS+ACTIVE" alt="Hacker Text Typing Effect" />
+</div>
 
 ---
 
-### 🛠️ Strategic Weaponry & Tech Arsenal
+### 📡 System Core: Identity Matrix
 
-```yaml
-frontend_deployment: [TypeScript, React, Tailwind_CSS, Vite]
-backend_architecture: [Supabase, PostgreSQL]
-security_perimeter:   [Linux, Git, Wireshark]
+```bash
+$ whoami
+> Name     : Emman [BSIT Student]
+> Target   : Ethical Hacker & Penetration Tester
+> Domains  : System Security | Pentesting | Secure Architecture
