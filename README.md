@@ -1,12 +1,8 @@
 # ⚡ SEC_ops // emmancabz 
-
 <div align="center">
-  <!-- Cyber-themed banner -->
-  <img src="https://capsule-render.vercel.app/canvas?type=code&color=00ffcc&bgColor=0d1117&text=ETHICAL%20HACKER%20//%20DEV&animation=twinkling&fontColor=00ffcc&fontSize=40" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=100&lines=ETHICAL+HACKER;SYSTEM+SECURITY;FULL-STACK+DEVELOPER" alt="Cyber Security Typing Banner" />
 </div>
-
 ---
-
 ### 📡 System Status: Active
 ```bash
 $ whoami
