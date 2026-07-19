@@ -12,4 +12,24 @@ $ whoami
 > Emman | BSIT Student & Aspiring Ethical Hacker
 $ info --focus
 > System Security, Pentesting, Full-stack Security Architecture
+```
+---
 
+### 👾 Sub-system Logs (Configs & Background Processes)
+
+```json
+{
+  "environment": {
+    "os": "Linux / Windows Dual Boot",
+    "shell": "Bash / PowerShell"
+  },
+  "background_tasks": [
+    "Running, jogging, and physical conditioning",
+    "Smashing rackets in Badminton"
+  ],
+  "entertainment_modules": [
+    "Minecraft (Redstone & Survival Node)",
+    "Mobile Legends: Bang Bang (Rank Optimization)"
+  ]
+}
+```
