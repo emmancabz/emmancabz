@@ -10,7 +10,7 @@
 
 ---
 
-### 📡 LIVE SYSTEM TELEMETRY (Cyber Analytics Dashboard)
+### 📡 LIVE SYSTEM TELEMETRY 
 
 <p align="center">
   <img src="https://github-readme-stats-git.vercel.app/api?username=emmancabz&show_icons=true&theme=tokyonight" width="100%" alt="GitHub Stats" />
