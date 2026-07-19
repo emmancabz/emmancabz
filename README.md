@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚡ SEC_ops // emmancabz 
 
-<!--
-**emmancabz/emmancabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- Cyber-themed banner -->
+  <img src="https://capsule-render.vercel.app/canvas?type=code&color=00ffcc&bgColor=0d1117&text=ETHICAL%20HACKER%20//%20DEV&animation=twinkling&fontColor=00ffcc&fontSize=40" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 System Status: Active
+```bash
+$ whoami
+> Emman | BSIT Student & Aspiring Ethical Hacker
+$ info --focus
+> System Security, Pentesting, Full-stack Security Architecture
